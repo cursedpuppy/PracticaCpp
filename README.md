@@ -1,5 +1,4 @@
-🌌 Astro-CPP
-Este repositorio está dedicado al aprendizaje del lenguaje C++ a través de la resolución de problemas de Física y Astronomía.
+🌌 Este repositorio está dedicado al aprendizaje del lenguaje C++ a través de la resolución de problemas de Física y Astronomía.
 
 El objetivo es avanzar de forma progresiva, desde conceptos básicos de programación hasta algoritmos complejos de simulación científica.
 
