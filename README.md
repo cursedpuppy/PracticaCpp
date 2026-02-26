@@ -1,12 +1,10 @@
-🌌 Este repositorio está dedicado al aprendizaje del lenguaje C++ a través de la resolución de problemas de Física y Astronomía.
+Este repositorio es un espacio de aprendizaje dedicado a hacer pruebas y experimentos usando el lenguaje C++/Python. Aquí desarrollo lógica y algoritmos enfocados en diversas ciencias, utilizándolo como un entorno de pruebas para simulaciones y resolución de problemas técnicos generales.
 
-El objetivo es avanzar de forma progresiva, desde conceptos básicos de programación hasta algoritmos complejos de simulación científica.
+🛠️ Lo que encontrarás aquí:
 
-🛠️ Contenido
-* Dificultad Gradual: Programas organizados de lo más sencillo a lo más difícil.
+Aprendizaje Progresivo: Ejercicios que van desde lógica básica hasta implementaciones más complejas.
 
-* Enfoque Científico: Aplicación de leyes de la física, mecánica celeste y cálculo numérico.
+Enfoque Multidisciplinario: Programas que aplican conceptos científicos de distintas áreas.
 
-* Precisión: Práctica en el manejo de tipos de datos de alta precisión y librerías matemáticas.
 
 
